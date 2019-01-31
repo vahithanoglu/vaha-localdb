@@ -1,2 +1,2 @@
 # vaha-localdb
-Interface library for transaction based local databases.
+Interface library for transactional local databases.
