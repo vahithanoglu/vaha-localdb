@@ -11,7 +11,7 @@ For now, there are two implementations of this library.
 - An implementation powered by [org.xerial.sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) for desktop platforms can be found on [vaha-localdb-sqlite](https://github.com/vahithanoglu/vaha-localdb-sqlite).
 - An implementation powered natively for Android platform can be found on [vaha-localdb-android](https://github.com/vahithanoglu/vaha-localdb-android).
 
-##### Example.java (business logic independent from platforms)
+##### Example.java (business logic independent of platforms)
 ```java
 package com.vahabilisim.localdb.example;
 
