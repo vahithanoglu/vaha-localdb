@@ -1,7 +1,7 @@
 # vaha-localdb
 
 ##### What is it?
-An interface library for transactional local databases that are being used both on desktop platforms (such as Linux, MacOS and Windows) and on Android platform.
+An interface library for transactional local databases that can be used both on desktop platforms (such as Linux, MacOS and Windows) and on Android platform.
 
 ##### What is its benefit?
 Without changing your business logic you can use same Java codes on the platforms supported by the specific implementations of this library.
