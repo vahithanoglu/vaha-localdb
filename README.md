@@ -6,7 +6,7 @@ An interface library for transactional local databases that are being used both 
 ##### What is its benefit?
 Without changing your business logic you can use same Java codes on the platforms supported by the specific implementations of this library.
 
-##### Is there any implementations of it?
+##### Is there any implementation of it?
 For now, there are two implementations of this library.
 - An implementation powered by [org.xerial.sqlite-jdbc](https://github.com/xerial/sqlite-jdbc) for desktop platforms can be found on [vaha-localdb-sqlite](https://github.com/vahithanoglu/vaha-localdb-sqlite).
 - An implementation powered natively for Android platform can be found on [vaha-localdb-android](https://github.com/vahithanoglu/vaha-localdb-android).
