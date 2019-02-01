@@ -12,7 +12,7 @@ import java.util.Optional;
 
 public class Example {
 
-    public class Car {
+    public static class Car {
 
         public long id;
         public String vendor;
