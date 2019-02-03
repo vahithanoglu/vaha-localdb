@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.vahabilisim</groupId>
     <artifactId>localdb</artifactId>
-    <version>6.0-20190201</version>
+    <version>6.0-20190203</version>
     <packaging>jar</packaging>
     <name>VAHALocalDB</name>
     
